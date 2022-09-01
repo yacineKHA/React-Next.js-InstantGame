@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/blognext.iml" filepath="$PROJECT_DIR$/.idea/blognext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dysit-real/.idea/dysit-real.iml" filepath="$PROJECT_DIR$/../dysit-real/.idea/dysit-real.iml" />
+    </modules>
+  </component>
+</project>

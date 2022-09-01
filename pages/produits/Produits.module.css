@@ -1,0 +1,6 @@
+.designBox{
+    width: 100%;
+    height: 200px;
+    -webkit-clip-path: polygon(0 0, 100% 0%, 100% 95%, 0 35%);
+    clip-path: polygon(0 0, 100% 0%, 140% 400%, 0 90%);
+}
